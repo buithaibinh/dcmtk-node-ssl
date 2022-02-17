@@ -1,0 +1,26 @@
+{
+  "name": "dcmtk-node-ssl",
+  "version": "1.0.0",
+  "description": "Docker Image based on NodeJs with DCMTK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "dcmtk",
+    "dcmtk",
+    "node",
+    "dcmtk",
+    "ssl"
+  ],
+  "author": "Binh Bui <buithaibinh@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buithaibinh/dcmtk-node-ssl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/buithaibinh/dcmtk-node-ssl/issues"
+  },
+  "homepage": "https://github.com/buithaibinh/dcmtk-node-ssl#readme"
+}
